@@ -42,11 +42,11 @@
 
 const PLAYERS_DATA = [
   {
-    username: "ItzRealMe",
+    username: "SoulFiredMc",
     region: "NA",
     tiers: {
-      vanilla: "HT1", sword: "HT2", axe: "LT2",
-      nethpot: "HT1", smp: "HT1", uhc: "HT1", mace: "LT2"
+      vanilla: "none", sword: "HT5, axe: "none",
+      nethpot: "HT5", smp: "LT5", uhc: "none", mace: "LT5"
     }
   },
   {
